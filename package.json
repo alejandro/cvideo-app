@@ -1,0 +1,19 @@
+{
+  "name": "nvideo-app",
+  "version": "0.0.0",
+  "description": "Simple app",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "tap ./tests"
+  },
+  "repository": "",
+  "keywords": [
+    "Canvas"
+  ],
+  "author": "Alejandro Morales",
+  "license": "BSD",
+  "dependencies": {
+    "express": "~3.1.1",
+    "cvideo": "https://github.com/alejandro/nvideo/archive/0.2.0.tar.gz"
+  }
+}
