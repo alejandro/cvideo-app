@@ -14,6 +14,6 @@
   "license": "BSD",
   "dependencies": {
     "express": "~3.1.1",
-    "cvideo": "https://github.com/alejandro/nvideo/archive/0.2.0.tar.gz"
+    "cvideo": "https://github.com/Revls/cvideo/archive/master.tar.gz"
   }
 }
